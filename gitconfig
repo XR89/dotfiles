@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = xanderreardon@gmail.com
+	name = Xander Reardon
